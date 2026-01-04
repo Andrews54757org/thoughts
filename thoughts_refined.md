@@ -1,4 +1,5 @@
 # Andrew's Thoughts as Refined by ChatGPT
+Go read the original [here](thoughts.md) if you'd like more detail.
 
 # Managing Communities Through Expectations
 
