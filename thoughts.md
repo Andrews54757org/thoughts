@@ -1,5 +1,5 @@
 # Andrew's Thoughts
-Musings on managing communities and fostering collaboration. See the ChatGPT refined version [here](thoughts_refined.md) if you'd rather read that.
+Musings on managing communities and fostering collaboration. See the ChatGPT refined concise version [here](thoughts_refined.md) if you'd rather read that.
 
 ## Disclaimer
 The views expressed here are my own and do not necessarily reflect those of the communities I am part of. Some ideas here may sound obvious, and others downright crazy. Regardless, my hope is that they spark meaningful conversations and inspire positive change. Think it over for a few days, and then decide what resonates with you.
