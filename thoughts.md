@@ -170,10 +170,20 @@ Storage Tech 2 is a community centered around archiving and sharing Minecraft st
 
 > The point of a democracy is to push out the old guard who are no longer fit to lead. I don't care how good you were 5 years ago; if you can't keep up with the community's needs now, it's time to step aside.
 
-> The unelected officials who do the work run the community, not the elected leaders. Leaders come and go, but the community's health depends on its volunteers. Leaders are a necessary evil required by human nature, but they should never be the focus. Leaders should defer to the experts.
+> The unelected officials who do the work run the community, not the elected leaders. Leaders come and go, but the community's health depends on its volunteers. Leaders are a necessary evil, but they should never be the focus. Leaders should defer to the experts.
 
 > Delegation is key. You can't do everything yourself, and trying to will only lead to burnout. Find people who are willing to help, give them clear expectations, and let them take ownership of their roles.
 
 > Don't be afraid to just say no. You can't please everyone, and trying to will only lead to frustration. Set expectations for how you'll run the community, and stick to them.
 
 > Recognize and reward those who make sacrifices for the community. A little appreciation goes a long way in motivating volunteers to continue their efforts.
+
+> Be kind to your future self. The decisions you make today will impact your workload tomorrow. Set up systems and processes that will make your life easier in the long run.
+
+> Remember that we are all people, and people make mistakes and are generally stupid. If you expect perfection, you will be disappointed.
+
+> When in doubt, default to kindness. It's better to err on the side of compassion than to be overly harsh.
+
+> Never underestimate the power of a well-placed meme. Don't be afraid to inject some humor into your community to keep things fun.
+
+> Respect history or you will repeat the same mistakes that others have made before you. Asking your elders for advice can be a cheat code to success.
