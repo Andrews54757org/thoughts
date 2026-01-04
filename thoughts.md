@@ -188,3 +188,5 @@ Storage Tech 2 is a community centered around archiving and sharing Minecraft st
 > Never underestimate the power of a well-placed meme. Don't be afraid to inject some humor into your community to keep things fun.
 
 > Respect history or you will repeat the same mistakes that others have made before you. Asking your elders for advice can be a cheat code to success.
+
+> Outlive your enemies. Communities are long-term endeavors, and the people who are causing problems now will not be around forever. Stay focused on the big picture and don't get bogged down by temporary setbacks.
